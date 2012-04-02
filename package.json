@@ -3,7 +3,6 @@
   "description": "Fast searching for multiple patterns accross multiple data chunks.",
   "author": "Joe Ferner <joe.ferner@nearinfinity.com>",
   "keywords": ["search", "text", "chunk", "matcher"],
-  "homepage": "https://github.com/nearinfinity/node-chunkmatcher",
   "version": "0.0.1",
   "engines": { "node" : ">=0.6.0" },
   "maintainers": [
@@ -13,7 +12,7 @@
     "nodeunit": "0.7.3"
   },
   "bugs": { "url": "https://github.com/nearinfinity/node-chunkmatcher/issues" },
-  "licenses": [ { "type" : "MIT" } ],
-  "repositories": { "type": "git", "url": "https://github.com/nearinfinity/node-chunkmatcher.git" },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/nearinfinity/node-chunkmatcher.git" },
   "main": "./terms.js"
 }
