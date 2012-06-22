@@ -3,7 +3,7 @@
   "description": "Fast searching for multiple patterns accross multiple data chunks.",
   "author": "Joe Ferner <joe.ferner@nearinfinity.com>",
   "keywords": ["search", "text", "chunk", "matcher"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">=0.6.0"
   },
