@@ -4,15 +4,25 @@
   "author": "Joe Ferner <joe.ferner@nearinfinity.com>",
   "keywords": ["search", "text", "chunk", "matcher"],
   "version": "0.0.1",
-  "engines": { "node" : ">=0.6.0" },
+  "engines": {
+    "node": ">=0.6.0"
+  },
   "maintainers": [
-    { "name": "Joe Ferner", "email": "joe.ferner@nearinfinity.com" }
+    {
+      "name": "Joe Ferner",
+      "email": "joe.ferner@nearinfinity.com"
+    }
   ],
   "devDependencies": {
     "nodeunit": "0.7.3"
   },
-  "bugs": { "url": "https://github.com/nearinfinity/node-chunkmatcher/issues" },
+  "bugs": {
+    "url": "https://github.com/nearinfinity/node-chunkmatcher/issues"
+  },
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/nearinfinity/node-chunkmatcher.git" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nearinfinity/node-chunkmatcher.git"
+  },
   "main": "./terms.js"
 }
