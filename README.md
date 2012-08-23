@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nearinfinity/node-chunkmatcher.png)](http://travis-ci.org/nearinfinity/node-chunkmatcher)
 # chunkmatcher
 
 Fast searching for multiple patterns accross multiple data chunks.
