@@ -8,7 +8,7 @@ the whole response or test boundary conditions for terms between chunks.
 ## Installation
 
 ```bash
-$ npm install chunksearch
+$ npm install chunkmatcher
 ```
 
 ## Quick Examples
